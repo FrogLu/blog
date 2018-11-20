@@ -4,7 +4,7 @@
 set -e
 
 # build
-sudo npm run docs:build
+yarn docs:build
 
 # navigate into the build output directory
 cd docs/.vuepress/dist
@@ -18,7 +18,7 @@ git add -A
 git commit -m 'Add ga ID in config.js'
 
 # if you are deploying to https://<USERNAME>.github.io
-# git push -f git@github.com:FrogLu/FrogLu.github.io.git master
+git push -f git@github.com:FrogLu/FrogLu.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
