@@ -24,5 +24,5 @@ git commit -m 'Add ga ID in config.js'
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 # 如果使用 travis 持续集成
-# git push -f https://53df9af28eac1a700dec4fb4d9c336a7edc8074f@github.com/FrogLu/FrogLu.github.io.git master
+git push -f https://53df9af28eac1a700dec4fb4d9c336a7edc8074f@github.com/FrogLu/FrogLu.github.io.git master
 cd -
