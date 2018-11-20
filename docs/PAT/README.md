@@ -12,7 +12,7 @@ github Address：[https://github.com/FrogLu/PAT](https://github.com/FrogLu/PAT)
 
 
 
-- - PAT B Contens[Official website](https://pintia.cn/problem-sets/994805260223102976/problems)(4/90)
+- - PAT B Contents: [[Official website]](https://pintia.cn/problem-sets/994805260223102976/problems)(4/90)
 
 |Id|Title|Solution|Type|Hard|
 |--|:----:| -----:|----|---:|
