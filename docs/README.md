@@ -10,7 +10,7 @@ pageClass: custom-page-class
 * Cpp
   + Expression
     - [lvalue and rvalue](/Cpp/lvalueRvalue.md)
-    - [sizeof(vector&lt;type&gt;](/Cpp/sizeofVector.md)
+    - [sizeof(vector&lt;type&gt;)](/Cpp/sizeofVector.md)
 * Linux
 * PAT
   + [Contents](/PAT/)
