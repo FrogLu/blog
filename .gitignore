@@ -3,6 +3,6 @@ Thumbs.db
 db.json
 *.log
 node_modules/
-sources/.vuepress/dist/
+docs/.vuepress/dist/
 *.bat
 *.sh
