@@ -24,7 +24,12 @@ module.exports = {
                 {
                     title: 'Expression',
                     collapsable: false,
-                    children: ['lvalueRvalue','sizeofVector','functionParameter'],
+                    children: ['lvalueRvalue','sizeofVector'],
+                },
+                {
+                    title: 'Function',
+                    collapsable: false,
+                    children: ['functionParameter'],
                 },
             ],
             '/PAT/': [
