@@ -15,7 +15,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 
-git commit -m 'deploy'
+git commit -m "deploy $(date +%Y/%m/%d)"
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:FrogLu/FrogLu.github.io.git master
