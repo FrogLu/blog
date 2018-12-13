@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'FrogLu',
+    title: '天台立日匀',
     description: 'Cockroachs apprentice',
     serviceWorker: true,
     ga: 'UA-129512845-1',
