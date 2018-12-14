@@ -1,5 +1,5 @@
 <p align="center"><a href="https://FrogLu.github.io" target="_blank" rel="noopener noreferrer"><img width="100" src="https://cdn.nlark.com/yuque/0/2018/jpeg/104558/1542608111481-81418d7a-b61e-4f74-a1b0-6fec4302a7c4.jpeg" alt="FrogLu logo"></a></p>
-<h1 align="center">天台立日匀</h1>
+<h1 align="center">丫头</h1>
 
 [![GitHub](https://img.shields.io/github/license/FrogLu/blog.svg)](https://github.com/FrogLu/blog)
 [![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/FrogLu/blog.svg)](https://github.com/FrogLu/blog)
