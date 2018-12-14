@@ -1,8 +1,14 @@
 module.exports = {
-    title: '天台立日匀',
+    title: '丫头',
     description: 'Cockroachs apprentice',
     serviceWorker: true,
     ga: 'UA-129512845-1',
+    markdown: {
+        config: md => {
+          md.set({breaks: true})
+          md.use(require('markdown-it-math'))
+        }
+    },
     themeConfig: {
         repo: 'FrogLu/FrogLu.github.io',
         lastUpdated: 'Last Updated',
