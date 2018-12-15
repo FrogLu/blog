@@ -12,10 +12,11 @@
   </strong>
 </div>
 
-# 二次开发
+## 三次开发
+(开发内容参考[乌云压顶是吧](https://github.com/iofu728/blog.git))
 - 支持Gittalk评论
 
-# 开发指南
+## 开发指南
 ```bash
 $ git clone https://github.com/froglu/blog.git
 $ cd blog
