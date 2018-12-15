@@ -1,6 +1,9 @@
 module.exports = {
     title: '丫头',
     description: 'Cockroachs apprentice',
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+      ],
     serviceWorker: true,
     ga: 'UA-129512845-1',
     markdown: {
