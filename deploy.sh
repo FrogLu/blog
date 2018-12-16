@@ -15,7 +15,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 
-git commit -m ":beer: deploy $(date +%Y/%m/%d)"
+git commit -m ":frog: deploy $(date +%Y/%m/%d)"
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:FrogLu/FrogLu.github.io.git master
