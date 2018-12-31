@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Last
-actionLink: /Cpp/functionParameter.md
+actionLink: /Others/Summary/2018.md
 pageClass: custom-page-class
 ---
 
@@ -17,3 +17,5 @@ pageClass: custom-page-class
 * PAT
   + [Contents](/PAT/)
 * Others
+  + Annual Summary
+    - [Written before 2019](/Others/Summary/2018.md)

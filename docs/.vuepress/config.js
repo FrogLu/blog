@@ -27,7 +27,7 @@ module.exports = {
             {text: 'Cpp', link: '/Cpp/functionParameter'},
             {text: 'Linux', link: '/Linux/404'},
             {text: 'PAT', link: '/PAT/'},
-            {text: 'Others', link: '/Others/404'},
+            {text: 'Others', link: '/Others/Summary/2018'},
         ],
         sidebarDepth: 2,
         sidebar: {
@@ -46,7 +46,13 @@ module.exports = {
             '/PAT/': [
                 '',
             ],
-            
+            '/Others/':[
+                {
+                    title: 'Annual Summary',
+                    collapsable: false,
+                    children: ['Summary/2018'],
+                },
+            ],
         },
     },
   };
