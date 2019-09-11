@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Last
-actionLink: /Others/Summary/2018.md
+actionLink: /Cpp/MoveSemantics_CopyElision.md
 pageClass: custom-page-class
 ---
 
@@ -13,6 +13,8 @@ pageClass: custom-page-class
     - [sizeof(vector&lt;type&gt;)](/Cpp/sizeofVector.md)
   + Function
     - [function reference](/Cpp/functionParameter.md)
+  + Template
+    - [move semantics and copy elision](/Cpp/MoveSemantics_CopyElision.md)
 * Linux
 * PAT
   + [Contents](/PAT/)
